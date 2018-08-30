@@ -1,2 +1,7 @@
 # taya
-Teaching friend some HTML
+Учу друга азам HTML
+
+
+* Сделать ссылку на свою страницу VK используя ТЭГ <**a**>
+
+(Документация по тэгу <**a**> здесь https://www.w3schools.com/tags/tag_a.asp) 
